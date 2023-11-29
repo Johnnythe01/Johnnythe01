@@ -1,5 +1,7 @@
 Jonathan Barragán de la Torre
+
 Resumen
+
 Estudiante de Diseño de Aplicaciones Multiplataforma (DAM) en el Colegio Cide, apasionado por explorar diferentes áreas laborales. Me motiva aprender y comprender profundamente el funcionamiento de los ordenadores y mi objetivo es convertirme en un programador versátil.
 
 Experiencia Laboral
@@ -26,10 +28,14 @@ Diseño de Aplicaciones Multiplataforma (DAM) - Colegio Cide (Actualidad)
 ESO (2013)
 Certificaciones de socorrista y mantenimiento de piscinas (2015)
 Prueba de Acceso a Grado Superior (2022)
+
 Habilidades y Proyectos
+
 Habilidades técnicas: Conocimientos en Java, Python, HTML, CSS, creación de páginas responsivas para diferentes dispositivos.
 Proyectos destacados: Trabajo Nº 20 de Lenguajes de Marcas (Páginas dinámicas y responsivas) y actividad Monkey Island de Programación (Desarrollo de juego).
+
 Otros Logros
+
 Participación en eventos de modelaje.
 Experiencia como recogepelotas en el Campo del Mallorca.
 Participación en series y películas alemanas rodadas en la isla.
