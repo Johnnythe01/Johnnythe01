@@ -1,7 +1,5 @@
 # Jonathan Barragán de la Torre
 
-![Foto de perfil](url_de_la_imagen)
-
 ## Resumen
 Estudiante de Diseño de Aplicaciones Multiplataforma (DAM) en el Colegio Cide. Apasionado por explorar diferentes áreas laborales y aprender sobre el funcionamiento de los ordenadores. Mi objetivo es convertirme en un programador versátil.
 
@@ -28,3 +26,7 @@ Estudiante de Diseño de Aplicaciones Multiplataforma (DAM) en el Colegio Cide. 
 - Participación en eventos de modelaje.
 - Experiencia como recogepelotas en el Campo del Mallorca.
 - Participación en series y películas alemanas rodadas en la isla.
+
+
+### Datos de interés
+- Carnet A y B con coche y moto propios.
