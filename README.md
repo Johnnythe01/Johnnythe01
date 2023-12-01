@@ -10,7 +10,17 @@ Estudiante de Diseño de Aplicaciones Multiplataforma (DAM) en el Colegio Cide. 
 - **Emergències Setmil - Aqualand del Arenal (2015)**
   - Socorrista y mantenimiento de piscinas exteriores en Aqualand del Arenal. Posteriormente, traslado al hotel Katmandú.
   
-(Continúa con el resto de tu experiencia laboral)
+- **Trabajo en Finlandia (2017)**
+  - Ventas de productos importados en mercados de verano y trabajos de campo.
+  
+- **Trabajo en Rentacars y aprendizaje de idiomas (2018)**
+  - Experiencia en Dollar (Can Pastilla), enfocado en mejorar habilidades de venta, gestión de situaciones de accidentes y aprendizaje del inglés.
+  
+- **Experiencia en criptomonedas (2021)**
+  - Inmersión breve en el mundo de las criptomonedas, explorando el mercado financiero.
+  
+- **Madrid y vuelta a la isla (2022)**
+  - Participación en la Feria del Libro en Madrid y trabajo en RecordGo (aeropuerto de Palma) y PepePhone (Llucmajor).
 
 ### Educación
 - **Diseño de Aplicaciones Multiplataforma (DAM) - Colegio Cide (Actualidad)**
