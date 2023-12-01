@@ -14,9 +14,9 @@ Estudiante de Diseño de Aplicaciones Multiplataforma (DAM) en el Colegio Cide. 
 
 ### Educación
 - **Diseño de Aplicaciones Multiplataforma (DAM) - Colegio Cide (Actualidad)**
-- **ESO (2013)**
-- **Certificaciones de socorrista y mantenimiento de piscinas (2015)**
 - **Prueba de Acceso a Grado Superior (2022)**
+- **Certificaciones de socorrista y mantenimiento de piscinas (2015)**
+- **ESO (2013)**
 
 ### Habilidades y Proyectos
 - **Habilidades técnicas**: Conocimientos en Java, Python, HTML, CSS, creación de páginas responsivas para diferentes dispositivos.
